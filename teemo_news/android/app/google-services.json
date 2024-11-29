@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "196817178867",
+    "project_id": "tl-sound",
+    "storage_bucket": "tl-sound.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196817178867:android:14bf58a11e8d74c428e786",
+        "android_client_info": {
+          "package_name": "com.example.teemo_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196817178867-2numoiiupf8ohff2b7iotd6jcjt6q7hi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teemo_news",
+            "certificate_hash": "cac7322197ed7c3206816684d02a4ea192b7a845"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSwj1mkl_MMN0WeTJDr93tEvhAyjL5DUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

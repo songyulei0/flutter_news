@@ -1,0 +1,41 @@
+name: teemo_news
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: {sdk: '>=3.3.0 <4.0.0'}
+dependencies:
+  flutter: {sdk: flutter}
+  cupertino_icons: ^1.0.6
+  get: ^4.6.6
+  custom_navigation_bar: ^0.8.2
+  flutter_screenutil: ^5.9.3
+  easy_refresh: ^3.3.5
+  flutter_webview_pro: ^3.0.1+4
+  flutter_easyloading: ^3.0.5
+  easy_animate: ^0.0.3
+  fancy_shimmer_image: ^2.0.3
+#  faker_dart: ^0.2.2
+#  skeletonizer: ^1.4.2
+  device_preview: ^1.1.0
+  icons_plus: ^5.0.0
+#  nine_grid_view: ^2.0.0  # 图片选择和移动
+  google_sign_in: ^6.2.1
+#  flutter_splash_screen: ^3.0.0
+#  flutter_masonry_view: ^0.0.2
+  flutter_skeleton_ui: ^0.0.6 # 骨架
+  url_launcher: ^6.3.1 #
+  flutter_native_splash: ^2.4.1
+#dart run flutter_native_splash:create  下面的【flutter_native_splash】 更改 需要执行这个命令去生成
+flutter_native_splash:
+  color: "#ebe5e5"
+  image: assets/fristImg.png
+  android_12:
+    image: assets/fristImg.png
+    color: "#ebe5e5"
+    icon_background_color: "#ebe5e5"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+
